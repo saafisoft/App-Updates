@@ -3,11 +3,11 @@
     <channel>
         <title>Discount Smart Attendance</title>
         <item>
-            <title>Version 1.0.3</title>
+            <title>Version 1.0.4</title>
             <description>Minor updates and improvements.</description>
-            <pubDate>Sun, 17 jan 2023 12:00:00 +0000</pubDate>
+            <pubDate>Sun, 29 Oct 2023 12:00:00 +0000</pubDate>
            <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags>
-            <enclosure url="https://play.google.com/store/apps/details?id=so.saafisoft.discount_smart_attendance" sparkle:version="1.0.3" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=so.saafisoft.discount_smart_attendance" sparkle:version="1.0.4" sparkle:os="android" />
         </item>
     </channel>
 </rss>
